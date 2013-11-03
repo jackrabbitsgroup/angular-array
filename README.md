@@ -1,15 +1,15 @@
 # AngularJS array service
 
-[TODO - brief summary]
+Some extra array functions
 
 ## Demo
 http://jackrabbitsgroup.github.io/angular-array/
 
 ## Dependencies
 - required:
-	[TODO]
+	- angular (tested with 1.2.0-rc.3)
 - optional
-	[TODO]
+	- [none]
 
 See `bower.json` and `index.html` in the `gh-pages` branch for a full list / more details
 
