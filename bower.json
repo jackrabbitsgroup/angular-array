@@ -1,6 +1,6 @@
 {
 	"name": "angular-array",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"authors": [
 		"Luke Madera <luke.madera@gmail.com>"
 	],
@@ -21,7 +21,7 @@
 		"tests"
 	],
 	"dependencies": {
-		"angular":"~1.2.0"
+		"angular":"~1.2.3"
 	},
 	"devDependencies": {
 	}
